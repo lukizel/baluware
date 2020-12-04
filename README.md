@@ -14,6 +14,7 @@ A very poorly pasted cheat based on CSGOSimple. It is still work-in-progress, bu
 - a skinchanger (barely, but works)
 - a slightly reworked config system with the state-of-the-art .KRZYKI config format
 - Vertical Imguj Menu!!!!!1111111
+- retard watermark
 
 ------
 
