@@ -1,0 +1,66 @@
+﻿  config.cpp
+  aimbot.cpp
+  backtrack.cpp
+  bhop.cpp
+  chams.cpp
+  glow.cpp
+  grenade_prediction.cpp
+  nosmoke.cpp
+  skins.cpp
+  visuals.cpp
+  hooks.cpp
+  main.cpp
+  menu.cpp
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(96,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=LONG
+          ] (compiling source file features\visuals.cpp)
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(99): message : see reference to function template instantiation 'void Render::RenderBox<LONG>(T,T,T,T,Color,float,float)' being compiled
+          with
+          [
+              T=LONG
+          ] (compiling source file features\visuals.cpp)
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(96,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=LONG
+          ] (compiling source file features\visuals.cpp)
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(96,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=LONG
+          ] (compiling source file features\visuals.cpp)
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(96,29): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=LONG
+          ] (compiling source file features\visuals.cpp)
+  options.cpp
+  render.cpp
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(96,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=LONG
+          ] (compiling source file render.cpp)
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(99): message : see reference to function template instantiation 'void Render::RenderBox<LONG>(T,T,T,T,Color,float,float)' being compiled
+          with
+          [
+              T=LONG
+          ] (compiling source file render.cpp)
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(96,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=LONG
+          ] (compiling source file render.cpp)
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(96,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=LONG
+          ] (compiling source file render.cpp)
+C:\Users\bier\Documents\GitHub\drown.pw(source)\CSGOSimple\render.hpp(96,29): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=LONG
+          ] (compiling source file render.cpp)
+  CSGOSimple.vcxproj -> C:\Users\bier\Documents\GitHub\drown.pw(source)\bin\Debug\csgosimple.dll
